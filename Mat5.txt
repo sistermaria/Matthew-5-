@@ -1,0 +1,54 @@
+<!doctype html>
+<html>
+
+<link rel="stylesheet" href="yell.css"/>
+<head>
+<title>Matthew 5</title>
+
+</head>
+    <body>
+<p>Now when Jesus saw the crowds, he went up on a mountainside and sat down. His disciples came to him, 2 and he began to teach them.
+
+    The Beatitudes
+
+    He said:
+
+    3
+    “Blessed are the poor in spirit,
+    for theirs is the kingdom of heaven.
+
+    4
+    Blessed are those who mourn,
+    for they will be comforted.
+
+    5
+    Blessed are the meek,
+    for they will inherit the earth.
+
+    6
+    Blessed are those who hunger and thirst for righteousness,
+    for they will be filled.
+
+    7
+    Blessed are the merciful,
+    for they will be shown mercy.
+
+    8
+    Blessed are the pure in heart,
+    for they will see God.
+
+    9
+    Blessed are the peacemakers,
+    for they will be called children of God.
+
+    10
+    Blessed are those who are persecuted because of righteousness,
+    for theirs is the kingdom of heaven.
+
+    11 “Blessed are you when people insult you, persecute you and falsely say all kinds of evil against you because of me. 12 Rejoice and be glad, because great is your reward in heaven, for in the same way they persecuted the prophets who were before you.
+</p>
+</h2><a href="default.asp">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfcCDggfoEcOqWU-q-aCjSl7wGwU6ZCWsYHLthIlRmZCazcXUj&s">
+    
+    </body>
+</head>
